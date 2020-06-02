@@ -1,0 +1,13 @@
+
+^squid:UselessImportCheck	"3Remove this unused import 'android.view.ViewGroup'.(‹îá8À±âšı-
+squid:S1450"bRemove the "localization_adress" field and declare it as a local variable in the relevant methods.(áñÂ&8´øšı-
+\squid:UselessImportCheck"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ8À±âšı-
+~squid:S1450"`Remove the "localization_text" field and declare it as a local variable in the relevant methods.(Õ¶¥‚8´øšı-
+|squid:S00116"^Rename this field "localization_adress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áñÂ&8Æ½û”ı-
+bsquid:UselessImportCheck
+"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8à‹É”ı-
+{squid:S00116"\Rename this field "localization_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¶¥‚8Æ½û”ı-
+xsquid:S00116"ZRename this field "localization_ad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÈC8‚—ç•ı-
+Ssquid:S1068"5Remove this unused "localization_text" private field.(Õ¶¥‚8Æ½û”ı-
+_squid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è8¤ÉÍı-
+asquid:UselessImportCheck"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8ÛµÉ”ı-

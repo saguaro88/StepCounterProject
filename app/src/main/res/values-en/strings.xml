@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StepCounterProject</string>
+    <string name="localization">Your localization is</string>
+    <string name="Yes">Yes</string>
+    <string name="WhereAmI">Where am I?</string>
+    <string name="TotalSteps">"Steps: "</string>
+    <string name="TodaySteps">Today\'s steps:</string>
+    <string name="SetGoal">Do you want to set a new goal?</string>
+    <string name="Ok">Ok</string>
+    <string name="No">No</string>
+    <string name="History">History</string>
+    <string name="GoalAchived">Congratulations you achived your goal!</string>
+    <string name="Goal">Goal:</string>
+    <string name="EnterSteps">"Enter steps number: "</string>
+    <string name="EditStepGoalTitle">Goal edition:</string>
+</resources>

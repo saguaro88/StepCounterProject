@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StepCounterProject</string>
+    <string name="localization">Twoja lokalizacja to</string>
+    <string name="EditStepGoalTitle">Edycja celu</string>
+    <string name="TotalSteps">Ilość kroków: </string>
+    <string name="Goal">Cel:  </string>
+    <string name="GoalAchived">Gratulacje osiągnąłeś cel!</string>
+    <string name="SetGoal">Czy chcesz ustawić nowy cel?</string>
+    <string name="No">Nie</string>
+    <string name="Yes">Tak</string>
+    <string name="History">Historia</string>
+    <string name="EnterSteps">Wprowadź ilość kroków</string>
+    <string name="Ok">Ok</string>
+    <string name="TodaySteps">Dzisiejsze kroki</string>
+    <string name="WhereAmI">Gdzie jestem?</string>
+    <string name="EditGoal"></string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="mini_padding">10dp</dimen>
+    <dimen name="card_padding">5dp</dimen>
+    <dimen name="bigPadding">100dp</dimen>
+    <dimen name="smallPadding">50dp</dimen>
+    <dimen name="bigFont">32dp</dimen>
+    <dimen name="smallFont">20dp</dimen>
+    <dimen name="imageSize">200dp</dimen>
+    <dimen name="marginTop">250dp</dimen>
+    <dimen name="buttonWidth">200dp</dimen>
+    <dimen name="HugePadding">200dp</dimen>
+    <dimen name="ProgressBarSize">350dp</dimen>
+
+</resources>

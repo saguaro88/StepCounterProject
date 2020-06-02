@@ -1,0 +1,43 @@
+
+nsquid:S1301N"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8Ñ°°úü-
+{squid:S1450B"XRemove the "todayDate" field and declare it as a local variable in the relevant methods.(»©›Äøÿÿÿÿ8ş¡íı-
+Bsquid:S10685"+Remove this unused "mSensor" private field.(ÈÆÄè
+`squid:UselessImportCheck,"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ªÍ¤–ı-
+dsquid:MaximumInheritanceDepth2"<This class has 6 parents which is greater than 5 authorized.(ºìç
+Dsquid:S1659C"&Declare "latitude" on a separate line.(ƒàÓ8±‹ä‘ı-
+9squid:S3626R"Remove this redundant jump.(ûÁİ…8Ñ°°úü-
+Isquid:S1068:"+Remove this unused "handler" private field.(Æ¶Ø…8ï±ÿşü-
+gsquid:UselessImportCheck"<Remove this unused import 'androidx.annotation.RequiresApi'.(å„» 8ºÄ••ı-
+Hsquid:S00108P")Either remove or fill this block of code.(©§¹8Ñ°°úü-
+]squid:UselessImportCheck"-Remove this unused import 'android.os.Build'.(ãÇ¤Úıÿÿÿÿ8®‹¹–ı-
+Esquid:S1659="'Declare "dailyGoal" on a separate line.(µåç8¢œÃúü-
+asquid:UselessImportCheck*"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8øÏ¡ı-
+Msquid:S1659;"/Declare "dailyGoalTextView" on a separate line.(ïÚ—ì8ê·ëıü-
+Isquid:S10686"+Remove this unused "TIMEOUT" private field.(Æä¬™8æ‹Ñ¶ı-
+Osquid:S1068="1Remove this unused "startingSteps" private field.(µåç8„úü-
+Jsquid:S10687"3Remove this unused "isSensorPresent" private field.(Ñ›±
+rsquid:S14508"TRemove the "today" field and declare it as a local variable in the relevant methods.(‚ıŞ’8×èäı-
+Usquid:S1153"1Directly append the argument of String.valueOf().(·¹Ïÿÿÿÿÿ8ÀÛæãı-
+rsquid:HiddenFieldCheck"CRename "locationManager" which hides the field declared at line 72.(¯Ûñüùÿÿÿÿ8ÀÛæãı-
+\"squid:SwitchLastCaseIsDefaultCheckN""Add a default case to this switch.(×ö³–úÿÿÿÿ8Ñ°°úü-
+Psquid:S1068@"-Remove this unused "receiver2" private field.(ÙüÄ–üÿÿÿÿ8»ôõøü-
+vsquid:S00117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ³¨·ÿÿÿÿÿ8ÀÛæãı-
+i
+squid:S128e"LEnd this switch case with an unconditional break, return or throw statement.(ïïÖé8ôî˜ı-
+vsquid:S00117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ³¨·ÿÿÿÿÿ8ÀÛæãı-
+?squid:S11706"!Make this final field static too.(Æä¬™8òı©¶ı-
+Vsquid:S1197M"8Move the array designator from the variable to the type.(¯ÜÑñ8Ñ°°úü-
+Jsquid:S1659@"'Declare "receiver2" on a separate line.(ÙüÄ–üÿÿÿÿ8»ôõøü-
+lsquid:UselessImportCheck	"<Remove this unused import 'android.annotation.SuppressLint'.(ÕƒóÏûÿÿÿÿ8»ˆ••ı-
+squid:S14509"aRemove the "localizationButton" field and declare it as a local variable in the relevant methods.(ÑĞÈ8„› ı-
+]squid:UselessImportCheck"9Remove this unused import 'android.hardware.SensorEvent'.(•Á¸è
+jsquid:UselessImportCheck"ARemove this unused import 'android.hardware.SensorEventListener'.(ëƒÃ×şÿÿÿÿ
+Nsquid:S10684"2Remove this unused "mSensorManager" private field.(Ü†‚µùÿÿÿÿ
+Gsquid:S1148ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀÛæãı-
+~squid:S1450;"`Remove the "dailyGoalTextView" field and declare it as a local variable in the relevant methods.(ïÚ—ì8Íæëıü-
+qsquid:S001166"RRename this field "TIMEOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æä¬™8òı©¶ı-
+zsquid:S00116F"VRename this field "network_loc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇøÖ“øÿÿÿÿ8‹¤•ı-
+xsquid:S00116I"TRename this field "final_loc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¶¯úşÿÿÿÿ8‹¤•ı-
+Psquid:S1199O"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8Ñ°°úü-
+qsquid:S00116E"RRename this field "gps_loc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òİş¢8‹¤•ı-
+vsquid:S1450A"XRemove the "mCalendar" field and declare it as a local variable in the relevant methods.(ÏëÍ€8×èäı-

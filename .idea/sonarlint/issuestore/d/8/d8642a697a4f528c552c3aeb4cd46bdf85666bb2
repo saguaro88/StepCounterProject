@@ -1,0 +1,6 @@
+
+ƒsquid:S1450"`Remove the "submit_steps_goal" field and declare it as a local variable in the relevant methods.(…¯ÑÄùÿÿÿÿ8ˆ²Ë™ý-
+zsquid:S00116"[Rename this field "steps_goal_input" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕŒé°8¸îÏ™ý-
+xsquid:S00116"YRename this field "new_steps_goal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉëÛŠ8îàÐ™ý-
+jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(¢ûöçýÿÿÿÿ
+€squid:S00116"\Rename this field "submit_steps_goal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¯ÑÄùÿÿÿÿ8žàÉ™ý-

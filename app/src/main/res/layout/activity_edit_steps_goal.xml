@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EditStepsGoal">
+
+    <TextView
+        android:id="@+id/todayStep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="sans-serif-light"
+        android:paddingBottom="@dimen/bigPadding"
+        android:text="@string/EditGoal"
+        android:textColor="@color/color"
+        android:textSize="@dimen/bigFont" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="@dimen/imageSize"
+        android:layout_height="@dimen/imageSize"
+        android:layout_margin="@dimen/smallPadding"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/goal_image" />
+
+    <EditText
+        android:id="@+id/steps_goal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/marginTop"
+        android:inputType="number"
+        android:hint="@string/EnterSteps" />
+    <Button
+        android:id="@+id/submit_steps_goal"
+        android:layout_width="@dimen/buttonWidth"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/btn_rounded"
+        android:layout_centerHorizontal="true"
+        android:text="@string/Ok"
+        android:layout_marginBottom="@dimen/smallPadding"
+        android:textSize="@dimen/smallFont" />
+
+</RelativeLayout>
